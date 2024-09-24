@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,62..125,100..900;1,62..125,100..900&display=swap');
+
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body,
+html {
+  overflow-x: hidden;
+}
+
+code,
+p,
+li,
+label {
+  font-family: "Roboto", sans-serif;
+}
+
+
+.hero-title,
+.section-title,
+.card-title,
+h1,
+h2,
+h3,
+h4,
+a,
+.app .btn {
+  font-family: "Archivo", sans-serif;
+}
